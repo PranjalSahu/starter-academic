@@ -18,18 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Image Analytics Intern"
+  company = "Siemens Healthineers"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Malvern"
+  date_start = "2018-06-01"
+  date_end = "2018-08-28"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Pathological Lung segmentation in presence of Tumors
+  * Improved recall of Tumor voxels from 0.57 to 0.86 withtout requiring additional training data.
+  * Trained model is adopted in commercial LungCAD
   """
 
 [[experience]]
