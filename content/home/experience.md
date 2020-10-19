@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Siemens Healthineers"
   company_url = ""
   location = "Malvern"
-  date_start = "2018-06-01"
-  date_end = "2018-08-28"
+  date_start = "2019-06-01"
+  date_end = "2019-08-28"
   description = """
   * Pathological Lung segmentation in presence of Tumors
   * Improved recall of Tumor voxels from 0.57 to 0.86 withtout requiring additional training data.
@@ -31,12 +31,13 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Image Analytics Intern"
+  company = "Siemens Healthineers"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Malvern"
+  date_start = "2019-06-01"
+  date_end = "2019-08-28"
+  description = """
+  * Added functionality for large nodule detection in the LungCAD
 
 +++
