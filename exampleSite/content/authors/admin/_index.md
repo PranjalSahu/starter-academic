@@ -11,16 +11,16 @@ role: Ph.D. Candidate in Computer Science
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Stony Brook University
-  url: https://www.stanford.edu/
+  url: https://www.cs.stonybrook.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Ph.D. Candidate in Computer Vision working on deep learning applications in Medical Imaging domain. In my thesis, I have focussed on using synthetic data to improve the performance of deep models.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Medical Imaging
+- Machine Learning
 
 # Education to show in About widget
 education:
