@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Computer Science
     institution: Stony Brook University
     year: 2016-2021(expected)
   - course: B.Tech(Hons) in Computer Science and Engineering
