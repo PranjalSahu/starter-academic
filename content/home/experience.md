@@ -39,5 +39,6 @@ date_format = "Jan 2006"
   date_end = "2018-08-28"
   description = """
   * Added functionality for large nodule detection in the LungCAD
+  """
 
 +++
