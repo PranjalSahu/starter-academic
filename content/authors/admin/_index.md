@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Stony Brook University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
