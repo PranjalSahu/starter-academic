@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Structure Correction for Robust Volume Segmentation in Presence of Tumors"
 authors:
 - admin
 - Robert Ford
@@ -19,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of Biomedical and Health Informatics, 2020"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: CNN based lung segmentation models in absence of diverse training dataset fail to segment lung volumes in presence of severe pathologies such as large masses, scars, and tumors. To rectify this problem, we propose a multi-stage algorithm for lung volume segmentation from CT scans. The algorithm uses a 3D CNN in the first stage to obtain a coarse segmentation of the left and right lungs. In the second stage, shape correction is performed on the segmentation mask using a 3D structure correction CNN. A novel data augmentation strategy is adopted to train a 3D CNN which helps in incorporating global shape prior. Finally, the shape corrected segmentation mask is up-sampled and refined using a parallel flood-fill operation. The proposed multi-stage algorithm is robust in the presence of large nodules/tumors and does not require labeled segmentation masks for entire pathological lung volume for training. Through extensive experiments conducted on publicly available datasets such as NSCLC, LUNA, and LOLA11 we demonstrate that the proposed approach improves the recall of large juxtapleural tumor voxels by at least 15% over state-of-the-art models without sacrificing segmentation accuracy in case of normal lungs. The proposed method also meets the requirement of CAD software by performing segmentation within 5 seconds which is significantly faster than present methods.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.researchgate.net/publication/342368058_Structure_Correction_for_Robust_Volume_Segmentation_in_Presence_of_Tumors
 url_code: ''
 url_dataset: ''
 url_poster: ''
