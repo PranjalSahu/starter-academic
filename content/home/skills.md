@@ -19,18 +19,37 @@ subtitle = ""
 #  icon_pack = "fab"
   name = "python"
 #  description = "90%"
+
+[[feature]]
+  name = "PyTorch"
   
-#[[feature]]
-#  icon = "chart-line"
-#  icon_pack = "fas"
-#  name = "Statistics"
-#  description = "100%"  
-  
-#[[feature]]
-#  icon = "camera-retro"
-#  icon_pack = "fas"
-#  name = "Photography"
-#  description = "10%"
+[[feature]]
+  name = "Tensorflow"
+
+[[feature]]
+  name = "Keras"
+
+[[feature]]
+  name = "Matlab"
+
+[[feature]]
+  name = "OpenCV"
+
+[[feature]]
+  name = "C"
+
+[[feature]]
+  name = "C++"
+
+[[feature]]
+  name = "Ruby on Rails"
+
+[[feature]]
+  name = "PostgreSQL"
+
+[[feature]]
+  name = "Android"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
