@@ -1,11 +1,11 @@
 ---
 title: "Structure Correction for Robust Volume Segmentation in Presence of Tumors"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Pranjal Sahu
+- Yiyuan Zhao
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
