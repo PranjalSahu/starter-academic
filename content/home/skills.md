@@ -17,11 +17,15 @@ subtitle = ""
 [[feature]]
 #  icon = "r-project"
 #  icon_pack = "fab"
-  name = "python"
+  name = "Python, C, C++, Matlab"
 #  description = "90%"
 
 [[feature]]
-  name = "PyTorch, Tensorflow, Keras, Matlab, OpenCV, C, C++, Ruby on Rails, PostgreSQL, Android, Spark"
+  name = "PyTorch, Tensorflow, Keras"
+
+[[feature]]
+  name = "Ruby on Rails, PostgreSQL, Android, Spark"
+
 
 
 # Uncomment to use emoji icons.
