@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Interveneable predictions using Electronic Health Records"
+title = "Facial Action Unit Detection"
 
 # Date this page was created.
 date = 2019-01-06T00:00:00
 
 # Project summary to display on homepage.
-summary = "Facial Action Unit Detections"
+summary = "Tensorflow implementation of the CVPR paper Deep Region and Multi-label Learning for Facial Action Unit Detection."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
