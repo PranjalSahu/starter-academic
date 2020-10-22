@@ -21,34 +21,7 @@ subtitle = ""
 #  description = "90%"
 
 [[feature]]
-  name = "PyTorch"
-  
-[[feature]]
-  name = "Tensorflow"
-
-[[feature]]
-  name = "Keras"
-
-[[feature]]
-  name = "Matlab"
-
-[[feature]]
-  name = "OpenCV"
-
-[[feature]]
-  name = "C"
-
-[[feature]]
-  name = "C++"
-
-[[feature]]
-  name = "Ruby on Rails"
-
-[[feature]]
-  name = "PostgreSQL"
-
-[[feature]]
-  name = "Android"
+  name = "PyTorch, Tensorflow, Keras, Matlab, OpenCV, C, C++, Ruby on Rails, PostgreSQL, Android, Spark"
 
 
 # Uncomment to use emoji icons.
