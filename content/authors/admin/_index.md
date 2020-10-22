@@ -69,4 +69,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Ph.D candidate in Compputer Science at Stony Brook University working under Dr. Hong Qin. In my thesis, I have focussed using synthetic data for improving the deep learning model's performance in Medical Imaging tasks. 
+I am a Ph.D candidate in Compputer Science at Stony Brook University working under <a href="http://www3.cs.stonybrook.edu/~qin/">Dr. Hong Qin</a>. In my thesis, I have focussed using synthetic data for improving the deep learning model's performance in Medical Imaging tasks. 
