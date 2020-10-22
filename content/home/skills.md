@@ -21,7 +21,7 @@ subtitle = ""
 #  description = "90%"
 
 [[feature]]
-  name = "PyTorch, Tensorflow, Keras"
+  name = "PyTorch, Tensorflow, Keras, OpenCV"
 
 [[feature]]
   name = "Ruby on Rails, PostgreSQL, Android, Spark"
