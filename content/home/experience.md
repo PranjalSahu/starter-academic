@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Siemens Healthineers"
   company_url = ""
   location = "Malvern"
-  date_start = "2019-06-01"
-  date_end = "2019-08-28"
+  date_start = "2020-06-01"
+  date_end = "2020-08-28"
   description = """
   * Pathological Lung segmentation in presence of Tumors
   * Improved recall of Tumor voxels from 0.57 to 0.86 withtout requiring additional training data.
@@ -35,10 +35,22 @@ date_format = "Jan 2006"
   company = "Siemens Healthineers"
   company_url = ""
   location = "Malvern"
-  date_start = "2018-06-01"
-  date_end = "2018-08-28"
+  date_start = "2019-06-01"
+  date_end = "2019-08-28"
   description = """
   * Added functionality for large nodule detection in the LungCAD
+  """
+ 
+ [[experience]]
+  title = "Student Intern"
+  company = "Brookhaven National Laboratory"
+  company_url = ""
+  location = "Brookhaven"
+  date_start = "2017-06-01"
+  date_end = "2017-08-28"
+  description = """
+  * Worked on Autonomous infrastructure project.
+  * Developed LSTM based model to predict material state transition prediction in advance using X-Ray scattering images.
   """
 
 +++
