@@ -31,7 +31,7 @@ education:
     institution: Stony Brook University
     year: 2016-2021(expected)
   - course: B.Tech(Hons) in Computer Science and Engineering
-    institution: <a href="http://cse.iitkgp.ac.in/">IIT Kharagpur</a>
+    institution: IIT Kharagpur
     year: 2013
 
 # Social/Academic Networking
