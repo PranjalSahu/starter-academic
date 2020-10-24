@@ -51,7 +51,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://scholar.google.com/citations?user=W0LtyTkAAAAJ&hl=en
-- icon: researchgate
+- icon: research-gate
   icon-pack: ai
   link: https://www.researchgate.net/profile/Pranjal_Sahu3
 - icon: github
@@ -59,7 +59,7 @@ social:
   link: https://github.com/PranjalSahu
 - icon: stackoverflow
   icon_pack: ai
-  link: stackoverflow.com/users/907770/sahu
+  link: https://stackoverflow.com/users/907770/sahu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
