@@ -48,6 +48,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=W0LtyTkAAAAJ&hl=en
+- icon: researchgate
+  icon-pack: ai
+  link: https://www.researchgate.net/profile/Pranjal_Sahu3
 - icon: github
   icon_pack: fab
   link: https://github.com/PranjalSahu
