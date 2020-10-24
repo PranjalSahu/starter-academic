@@ -29,7 +29,7 @@ publication_types:
 publication: '*Proceedings of the Workshop on 3D Object Retrieval*'
 publication_short: ''
 
-abstract: ''
+abstract: 'The large number of protein structures deposited in the protein database provide an opportunity to examine the structure relations using computational algorithms, which can be used to classify the structures based on shape similarity. In this paper, we report the result of the SHREC 2017 track on shape retrievals from protein database. The goal of this track is to test the performance of the algorithms proposed by participants for the retrieval of bioshape (proteins). The test set is composed of 5,854 abstracted shapes from actual protein structures after removing model redundancy. Ten query shapes were selected from a set of representative molecules that have important biological functions. Six methods from four teams were evaluated and the performance is summarized in this report, in which both the retrieval accuracy and computational speed were compared. The biological relevance of the shape retrieval approaches is discussed. We also discussed the future perspectives of shape retrieval for biological molecular models.'
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
@@ -42,7 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/publication/342368058_Structure_Correction_for_Robust_Volume_Segmentation_in_Presence_of_Tumors
+url_pdf: https://www.researchgate.net/publication/327836044_SHREC'17_Track_Protein_Shape_Retrieval
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://www.researchgate.net/profile/Pranjal_Sahu3/publication/327836044/figure/tbl1/AS:676056554012672@1538195851929/The-list-of-the-query-molecules-The-set-is-se-lected-from-the-molecule-of-the-month_W640.jpg)'
   focal_point: ''
   preview_only: false
 
