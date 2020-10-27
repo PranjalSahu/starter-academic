@@ -24,11 +24,9 @@ publication_types:
 publication: '*15th International Workshop on Breast Imaging (IWBI2020)*'
 publication_short: ''
 
-abstract: ''
+abstract: 'Contrast enhanced digital breast tomosynthesis (CEDBT) utilizes weighted subtraction of high energy (HE) and low energy (LE) DBT to generate a 3D iodinated contrast enhancement map of the breast, and potentially improve breast lesion detection and characterization. However, the increased scattered radiation at HE exacerbates the cupping artifact. Monte Carlo (MC) based scatter correction (SC) method suffers from long computation time, and kernel-based method is less accurate, especially near the breast edge due to thickness roll-off. This work is aimed at developing fast and accurate SC using Convolutional Neural Network (CNN).'
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
