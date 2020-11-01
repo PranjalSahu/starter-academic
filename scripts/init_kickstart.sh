@@ -4,7 +4,8 @@
 
 # Update Academic
 cd ..
-source update_academic.sh
+#source update_academic.sh
+source update_wowchemy.sh
 cd scripts/
 
 #################################################

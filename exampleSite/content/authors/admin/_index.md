@@ -1,79 +1,81 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Pranjal Sahu
+
+# Username (this should match the folder name)
+authors:
+- admin
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
+# Role/position
 role: Ph.D. Candidate in Computer Science
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
 - name: Stony Brook University
-  url: https://www.cs.stonybrook.edu/
+  url: "https://www.cs.stonybrook.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. Candidate in Computer Vision working on deep learning applications in Medical Imaging domain. In my thesis, I have focussed on using synthetic data to improve the performance of deep models.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
 interests:
 - Computer Vision
 - Medical Imaging
 - Machine Learning
 
-# Education to show in About widget
 education:
   courses:
   - course: PhD in Computer Science
     institution: Stony Brook University
-    year: 2016-2021 (expected)
+    year: 2016-2021(expected)
   - course: B.Tech(Hons) in Computer Science and Engineering
-    institution: Indian Institute of Technology Kharagpur
+    institution: IIT Kharagpur
     year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # OR `google-scholar`
-  icon_pack: fas  # OR `ai`
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/pranjalsahu
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=W0LtyTkAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
+  link: https://scholar.google.com/citations?user=W0LtyTkAAAAJ&hl=en
+- icon: research-gate
+  icon-pack: ai
+  link: https://www.researchgate.net/profile/Pranjal_Sahu3
+- icon: github
+  icon_pack: fab
+  link: https://github.com/PranjalSahu
+- icon: stackoverflow
+  icon_pack: ai
+  link: https://stackoverflow.com/users/907770/sahu
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: media/resume.pdf
+#   link: files/cv.pdf
 
-# Email for Contact widget or Gravatar
-email: ""
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: "psahu@cs.stonybrook.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
-#   Remove this if you are not using the People widget.
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Researchers
+- Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a Ph.D candidate in Compputer Science at Stony Brook University working under <a href="http://www3.cs.stonybrook.edu/~qin/">Dr. Hong Qin</a>. In my thesis, I have focussed using synthetic data for improving the deep learning model's performance in Medical Imaging tasks. 
